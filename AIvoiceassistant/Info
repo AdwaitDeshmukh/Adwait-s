@@ -1,0 +1,19 @@
+College Curriculum Voice Assistant
+
+This project integrates a voice assistant with your college curriculum, enabling voice interaction to access curriculum-related information from PDFs.
+
+ Features
+
+- Voice recognition using Google Speech Recognition API.
+- Text extraction from PDF documents.
+- Context-aware responses via the Gemini API.
+- Text-to-speech for verbal responses.
+
+ How It Works
+
+1. The assistant listens to voice commands and converts them to text.
+2. It extracts relevant content from the specified PDF.
+3. The extracted text and query are sent to the Gemini API for a response.
+4. The response is read aloud using text-to-speech.
+
+ 
